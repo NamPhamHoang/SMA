@@ -1,0 +1,21 @@
+//abcb
+var a = 20
+var b = 40
+if(a<20 && b>60) 
+{
+    //console
+    /* dfaddf
+    adfdfaaa*/
+    if(a = "/**/")
+        console.log(a+b)
+    a++
+    b--
+    c++
+
+
+
+
+    ad--
+    if(a == b){}
+}
+console.log(b-ac)
